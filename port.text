@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    
+<!-- navbar section starts  -->
+
+<nav class="navbar">
+    <a href="index.html"> <i class="fas fa-home"></i> <span>home</span> </a>
+    <a href="about.html"> <i class="fas fa-user"></i> <span>about</span> </a>
+    <a href="portfolio.html"> <i class="fas fa-briefcase"></i> <span>portfolio</span> </a>
+    <a href="blogs.html"> <i class="fas fa-blog"></i> <span>codes</span> </a>
+    <a href="contact.html"> <i class="fas fa-address-book"></i> <span>contact</span> </a>
+</nav>
+
+<!-- navbar section ends -->
+
+<!-- portfolio section starts  -->
+
+<section class="portfolio">
+
+    <h1 class="heading"> <span>My</span> Instructers </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="images/fud.jpg" alt="">
+            <div class="content">
+                <h3>Mark fuji F. Fajiculay</h3>
+                <p>My Instructer in WEB PROGRAMMING and DEVELOPMENT/ Automata Theory and Formal Languages.</p>
+
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/fin.jpg" alt="">
+            <div class="content">
+                <h3>Charles Buenavista</h3>
+                <p>My Instructer in Software Engineering 1/ CS Elective/ Applications Development and Emerging Technologies.</p>
+
+            </div>
+        </div>
+       
+        <div class="box">
+            <img src="images/san.jpg" alt="">
+            <div class="content">
+                <h3>Mark Kevin Sanig</h3>
+                <p>My Instructer in Information Assurance and Security/ Advance Database Systems.</p>
+ 
+            </div>
+        </div>
+    </div>
+	
+	    <h1 class="heading"> <span>My</span> Gallery </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="images/11.jpg" alt="">
+            <div class="content">
+                <h3>April 01 2021</h3>
+                <p> "When you have a dream, you've got to grab it and never let go."— Carol Burnett</p>
+
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/2.jpg" alt="">
+            <div class="content">
+                <h3>April 21 2021</h3>
+                <p>"Nothing is impossible. The word itself says 'I'm possible!'" — Audrey Hepburn</p>
+
+            </div>
+        </div>
+       
+        <div class="box">
+            <img src="images/3.jpg" alt="">
+            <div class="content">
+                <h3>March 12 2021</h3>
+                <p>"There is nothing impossible to they who will try."— Alexander the Great</p>
+ 
+            </div>
+        </div>
+		
+		        <div class="box">
+            <img src="images/4.jpg" alt="">
+            <div class="content">
+                <h3>March 23 2021</h3>
+                <p> "The bad news is time flies. The good news is you're the pilot."— Michael Altshuler</p>
+ 
+            </div>
+        </div>
+		
+		        <div class="box">
+            <img src="images/5.jpg" alt="">
+            <div class="content">
+                <h3>March 30 2021</h3>
+                <p>"Life has got all those twists and turns. You've got to hold on tight and off you go."— Nicole Kidman</p>
+ 
+            </div>
+        </div>
+    </div>
+
+
+    
+</section>
+
+<!-- portfolio section ends -->
+
+</body>
+</html>
